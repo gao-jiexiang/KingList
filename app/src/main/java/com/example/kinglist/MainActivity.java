@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
+        String a="111";
         mTitle = (TextView) findViewById(R.id.title);
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mTab = (TabLayout) findViewById(R.id.tab);
